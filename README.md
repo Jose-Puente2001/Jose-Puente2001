@@ -8,6 +8,8 @@ I am a software developer based in Falcón Venezuela, specialized in creating we
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![Laravel](https://img.shields.io/badge/-Laravel-0A1A2F?style=flat&logo=laravel)
+ -  🛢 &nbsp;Database:&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
