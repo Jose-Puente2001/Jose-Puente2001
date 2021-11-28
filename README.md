@@ -12,6 +12,9 @@ I am a software developer based in Falcón Venezuela, specialized in the creatio
 
 <br />
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+<br />
 
 **languages and tools:**  
 
@@ -23,8 +26,13 @@ I am a software developer based in Falcón Venezuela, specialized in the creatio
 
 <br />
 
+
+
+<br />
+
 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jose-Puente2001&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
+  
