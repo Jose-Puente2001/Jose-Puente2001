@@ -22,3 +22,4 @@ I am a software developer based in Falcón Venezuela, specialized in creating we
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
  
  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Puente2001)](https://github.com/anuraghazra/github-readme-stats)
