@@ -8,7 +8,7 @@
 
 <br />
 
-I am a software developer based in Falcón Venezuela, specialized in creating websites and web applications.
+I am a software developer based in Falcón Venezuela, specialized in the creation of websites and web and mobile applications.
 
 <br />
 
