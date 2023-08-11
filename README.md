@@ -1,8 +1,5 @@
 ### Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm José Puente.
 
-<a href="https://www.linkedin.com/in/josé-puente-96214619b/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br />
 
